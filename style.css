@@ -1,0 +1,26 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    font-size: 20px;
+} 
+.topimg img {
+    width: 100%;
+    height: 50vh;
+}
+.accordion {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card {
+    margin: 20px 0;
+}
+.access-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
